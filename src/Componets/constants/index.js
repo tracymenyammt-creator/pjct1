@@ -231,39 +231,38 @@ export const mySocials = [
   },
   {
     name: "Linkedin",
-    href: "https://www.linkedin.com/in/ali-sanati/",
+    href: "",
     icon: "/assets/socials/linkedIn.svg",
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/ali.sanatidev/reels/",
+    href: "",
     icon: "/assets/socials/instagram.svg",
   },
 ];
 
 export const experiences = [
   {
-    title: "Software Developer",
-    job: "Security & Defense Projects",
-    date: "2021-2023",
+    title: "IT Support at CAMCUL",
+    job: "Helping Desk and General IT Support",
+    date: "August 2022 - October 2022",
     contents: [
-      "Enhanced application security and developed new features, adhering to standards set by the Passive Defense Organization and National Cyberspace Center.",
-      "Designed and implemented intuitive map interfaces using MapsUI, enhancing user experience and enabling seamless interactive map integration.",
-      "Developed applications for industrial automation, leveraging C++ and the Fatek API for PLC communication.",
-      "Enhanced responsiveness and usability of applications using Windows Forms and WPF frameworks.",
-      "Executed XML to SVG conversions using X-DOM, ensuring dynamic and efficient data visualization.",
+      "As an IT intern in a microfinance setting of CAMCUL helped  the organization’s technology operations",
+       'by assisting with hardware and software maintenance, troubleshooting user issues, and ensuring smooth network connectivity.',
+        'Managed core banking system, update databases, and provide technical support to staff.',
+         'Ensured  data security across the entire oraganization,'
+      
     ],
   },
   {
-    title: "Back-End Developer",
-    job: "Car Manufacture",
-    date: "2023-2024",
+    title: "Front-End Developer",
+    job: "Intern",
+    date: "Febuary 2023 - November 2023",
     contents: [
-      "Engineered systems for large-scale data ingestion and analysis, ensuring efficient data processing and storage.",
-      "Developed back-end systems enabling vehicle-to-cloud communication for telemetry, diagnostics, and remote control:",
-      "✅ Implemented secure APIs, following ISO 26262 automotive safety standards.",
-      "✅ Ensured data privacy for customers and partners through industry-compliant protocols.",
-      "✅ Delivered remote features like over-the-air updates, real-time tracking, and remote start capabilities.",
+      'Develop,test and maintain responsive user interfaces using HTML, CSS, Javascript, and modern frameworks(React)',
+      'Tranlate UI/UX designs into functional, high-quality code',
+      'Optimize applications for maximum speed, scalability, and cross-browser compatibility',
+      'Collaborate with designers, backend developers, and product teams to deliver seamless user experiences.'
     ],
   },
   {

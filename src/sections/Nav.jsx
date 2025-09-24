@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 
+
+
 function Navigation({ isMobile }) {
   return (
     <ul className={isMobile ? "flex flex-col gap-4" : "flex gap-6"}>
@@ -41,7 +43,7 @@ const Nav = () => {
             className="flex cursor-pointer text-white hover:text-neutral-300 focus:outline-none sm:hidden"
           >
             <img
-              src={isOpen ? "assets/close.svg" : "assets/menu.svg"}
+              src={isOpen ? "assets/close.svg": "assets/menu.svg"}
               className="w-6 h-6"
               alt="toggle"
             />
